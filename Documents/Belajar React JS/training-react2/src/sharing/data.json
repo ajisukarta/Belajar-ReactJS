@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "title" :"Sapiens: A Brief History of Humankind",
+        "author":"Yuval Noah Harari",
+        "image":"https://m.media-amazon.com/images/I/51Sn8PEXwcL.jpg",
+        "price": 350000
+    },
+    {
+        "id":2,
+        "title":"Chainsawman vol. 5",
+        "author":"Tatsuki Fujimoto",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/51A1NE0bi3L._SX331_BO1,204,203,200_.jpg",
+        "price":180000
+    },
+    {
+        "id":3,
+        "title":"The Subtle Art of Not Giving F*ck",
+        "author":"Mark Mason",
+        "image":"https://rovingbookwormng.files.wordpress.com/2019/04/the-subtle-act-of-not-giving-a-fck.jpg?w=267",
+        "price":200000 
+    },
+    {
+        "id": 4,
+        "title":"Atomic Habits",
+        "author":"James Clear",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/51vSbWpF+dS._AC_SX368_.jpg",
+        "price":275000
+    },
+    {
+        "id": 5,
+        "title":"The Last Thing He Told Me: A Novel",
+        "author":"Laura Dave",
+        "image":"https://images-na.ssl-images-amazon.com/images/I/51b-JoV-1xS._AC_SX184_.jpg",
+        "price":180000 
+    }
+]
